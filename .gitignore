@@ -4,6 +4,7 @@ creditcard.csv
 model/
 OpinosisDataset1.0/
 cats_and_dogs_filtered/
+kaggle.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
