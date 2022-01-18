@@ -3,6 +3,7 @@ exercise1.ipynb
 creditcard.csv
 model/
 OpinosisDataset1.0/
+cats_and_dogs_filtered/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
