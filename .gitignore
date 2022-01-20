@@ -5,6 +5,9 @@ model/
 OpinosisDataset1.0/
 cats_and_dogs_filtered/
 kaggle.json
+handwriting_shape.zip
+hard_handwriting_shape.zip
+etriaikey.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
